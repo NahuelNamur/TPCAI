@@ -1,0 +1,15 @@
+C:\Users\Nahuel\OneDrive\Documents\GitHub\TPCAI\TPCAI\bin\Debug\net8.0\TPCAI.exe
+C:\Users\Nahuel\OneDrive\Documents\GitHub\TPCAI\TPCAI\bin\Debug\net8.0\TPCAI.deps.json
+C:\Users\Nahuel\OneDrive\Documents\GitHub\TPCAI\TPCAI\bin\Debug\net8.0\TPCAI.runtimeconfig.json
+C:\Users\Nahuel\OneDrive\Documents\GitHub\TPCAI\TPCAI\bin\Debug\net8.0\TPCAI.dll
+C:\Users\Nahuel\OneDrive\Documents\GitHub\TPCAI\TPCAI\bin\Debug\net8.0\TPCAI.pdb
+C:\Users\Nahuel\OneDrive\Documents\GitHub\TPCAI\TPCAI\obj\Debug\net8.0\TPCAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahuel\OneDrive\Documents\GitHub\TPCAI\TPCAI\obj\Debug\net8.0\TPCAI.AssemblyInfoInputs.cache
+C:\Users\Nahuel\OneDrive\Documents\GitHub\TPCAI\TPCAI\obj\Debug\net8.0\TPCAI.AssemblyInfo.cs
+C:\Users\Nahuel\OneDrive\Documents\GitHub\TPCAI\TPCAI\obj\Debug\net8.0\TPCAI.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\OneDrive\Documents\GitHub\TPCAI\TPCAI\obj\Debug\net8.0\TPCAI.sourcelink.json
+C:\Users\Nahuel\OneDrive\Documents\GitHub\TPCAI\TPCAI\obj\Debug\net8.0\TPCAI.dll
+C:\Users\Nahuel\OneDrive\Documents\GitHub\TPCAI\TPCAI\obj\Debug\net8.0\refint\TPCAI.dll
+C:\Users\Nahuel\OneDrive\Documents\GitHub\TPCAI\TPCAI\obj\Debug\net8.0\TPCAI.pdb
+C:\Users\Nahuel\OneDrive\Documents\GitHub\TPCAI\TPCAI\obj\Debug\net8.0\TPCAI.genruntimeconfig.cache
+C:\Users\Nahuel\OneDrive\Documents\GitHub\TPCAI\TPCAI\obj\Debug\net8.0\ref\TPCAI.dll
